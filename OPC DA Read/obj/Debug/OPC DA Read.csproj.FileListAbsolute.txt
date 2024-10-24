@@ -1,0 +1,28 @@
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA Read.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC_DA_Read.Form1.resources
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC_DA_Read.Properties.Resources.resources
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA Read.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA Read.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OPC DA Read.exe.config
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OPC DA Read.exe
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OPC DA Read.pdb
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\GodSharp.Opc.Da.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\GodSharp.Opc.Da.OpcAutomation.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\GodSharp.Opc.Da.OpcNetApi.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OpcNetApi.Com.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OpcNetApi.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\GodSharp.Opc.Da.xml
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\GodSharp.Opc.Da.OpcAutomation.xml
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\GodSharp.Opc.Da.OpcNetApi.xml
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA R.19974228.Up2Date
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA Read.exe
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA Read.pdb
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OpcComRcw.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\MQTTnet.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\MQTTnet.xml
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OPC DA Read.exe.manifest
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\bin\Debug\OPC DA Read.application
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA Read.exe.manifest
+C:\Users\USER\Documents\Visual_Studio\OPC DA Read\OPC DA Read\obj\Debug\OPC DA Read.application
